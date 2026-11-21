@@ -1,6 +1,6 @@
 # jeisan-kyllian-dramane
 
-Organisation de Jeisan, Kyllian et Dramane, étudiants en L3 informatique à CY Cergy Paris Université. Elle regroupe nos projets communs.
+Organisation de Jeisan, Kyllian et Dramane. Elle regroupe nos projets d'informatique réalisés en trio à CY Cergy Paris Université.
 
 ## Équipe
 
